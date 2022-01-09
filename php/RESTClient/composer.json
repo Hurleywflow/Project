@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "twig/twig": "^3.3",
+        "friendsoftwig/twigcs": "^5.1"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}

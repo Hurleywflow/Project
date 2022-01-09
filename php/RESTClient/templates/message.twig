@@ -1,0 +1,26 @@
+{% extends 'base.twig' %}
+{% block title %}BreedsApp Message{% endblock %}
+{% block brand %}BreedsApp Message{% endblock %}
+{% block body %}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-md-8 box-blue text-center mb-6 d-block">{{ message }}</div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="col-md-8 col-lg-8 mt-6 d-block">
+        <a href="?action=getBreeds" class="btn btn-blue btn-block" tabindex="-1" role="button" aria-disabled="true">BACK</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

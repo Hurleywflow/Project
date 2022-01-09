@@ -1,0 +1,7 @@
+[25-Oct-2021 07:21:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 25
+[25-Oct-2021 07:23:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 25
+[25-Oct-2021 07:25:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 32
+[25-Oct-2021 07:29:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 32
+[25-Oct-2021 07:29:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 32
+[25-Oct-2021 07:41:52 Europe/Berlin] PHP Warning:  Undefined array key "login_time_stamp" in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 26
+[25-Oct-2021 07:45:04 Europe/Berlin] PHP Warning:  Undefined array key "submit" in /Applications/XAMPP/xamppfiles/htdocs/RESTServer4648451/app/RouteAction.php on line 26
