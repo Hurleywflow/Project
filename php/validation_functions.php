@@ -7,7 +7,7 @@ function validateDate($value) {
         // date picker produces universal date format
         // yyyy-mm-dd
         $day = $month = $year = "";
-        // split up the pieces 
+        // split up the pieces
         list($year, $month, $day) = explode("-", $value);
 
         $day = intval($day);
@@ -21,7 +21,7 @@ function validateDate($value) {
     } else if (preg_match("/\d{2}\/\d{2}\/\d{4}/", $value)) {
         // if we are here user has entered format of dd/mm/yyyy
         $day = $month = $year = "";
-        // split up the pieces 
+        // split up the pieces
         list($day, $month, $year) = explode("/", $value);
 
         $day = intval($day);
@@ -52,3 +52,4 @@ function validateDOB($value) {
 
     return $valid;
 }
+

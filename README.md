@@ -1,1 +1,1 @@
-# This is included all mini projects and languages for Wed dev.
+# This is included all mini projects and languages for Wed dev
